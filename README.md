@@ -2,30 +2,34 @@
 #### Меня зовут Дарья.
 #### Я - начинающий фронтенд-разботчик.
 
-Что я делаю:
+🕊  🎀  Что я делаю:  🎀  🕊
 - Учусь в команде Яндекс.Практикум на курсе [Веб-разработчик](https://practicum.yandex.ru/web/) (Выпуск в июле 2023 года)
 - Делаю интересные проекты. 
 - Ищу работу во фронтенд-разработке.
 
-Что я умею:
+🍓🎁  Что я умею:  🎯😲
 - Верстать с особым вдохновением и усердием, применяя навыки, полученные в ходе обучения в Яндекс-Практикум  
 - Постигать что-то новое.
 - Не бояться всё изменить.
 
-Что я хочу:
+😳♞  Что я хочу:  💗🍟
 - Работать с интересными проектами и опытными коллегами
 - Всегда учиться чему-то новому
 
 ### Мои сильные стороны:
+- Четкие планы
+- Богатое воображение
+- Чуткое воприятие
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&duration=3000&pause=900&color=1B27C5&background=1CBD2B0B&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=357&lines=+%F0%9F%91%8C%F0%9F%91%8C%F0%9F%91%8C+%D0%A7%D1%91%D1%82%D0%BA%D0%B8%D0%B5+%D0%B8+%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%BD%D1%8B%D0%B5+%D0%BF%D0%BB%D0%B0%D0%BD%D1%8B)](https://git.io/typing-svg)
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&duration=3000&pause=900&color=1B27C5&background=1CBD2B0B&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=357&lines=+%F0%9F%91%8C%F0%9F%91%8C%F0%9F%91%8C+%D0%A7%D1%91%D1%82%D0%BA%D0%B8%D0%B5+%D0%B8+%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%BD%D1%8B%D0%B5+%D0%BF%D0%BB%D0%B0%D0%BD%D1%8B)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=23&duration=3000&pause=900&color=C51942&background=1CBD2B0B&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=357&lines=+%F0%9F%91%8C%F0%9F%91%8C%F0%9F%91%8C+%D0%91%D0%BE%D0%B3%D0%B0%D1%82%D0%BE%D0%B5+%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=23&duration=3000&pause=900&color=C57425&background=1CBD2B0B&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=357&lines=+%F0%9F%91%8C%F0%9F%91%8C%F0%9F%91%8C+%D0%A7%D1%83%D1%82%D0%BA%D0%BE%D0%B5+%D0%B2%D0%BE%D1%81%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5)](https://git.io/typing-svg)
+ -->
 
-
-
+### Мои профессиональные навыки
 <p>
     <a href="https://html.spec.whatwg.org/multipage/" >
         <img src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E" alt="HTML Living Standard" />
@@ -60,6 +64,8 @@
         <img src="https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&labelColor=31A8FF&color=4E4E4E" alt="Adobe Photoshop home page" />
     </a>
   </p>
+  
+  [Мои работы]()
   
 :globe_with_meridians: Контакты
 
