@@ -66,7 +66,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@dasha_fr_russia)
 [![Mail](https://img.shields.io/badge/@mail-DAA520?style=for-the-badge&logo%40-%20mail-informational=mail&l?logoColor=DAA520)](mailto:dasha_fr_russia@mail.ru)
 
-[![@ mail](https://img.shields.io/github/issues/simple-icons/simple-icons/good%20first%20issue?label=good%20first%20issues&logo=git&logoColor=white)](https://github.com/simple-icons/simple-icons/labels/good%20first%20issue)
 <!--
 **Krylatka2022/Krylatka2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
