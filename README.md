@@ -53,15 +53,17 @@
   
   ## [Мои работы](https://github.com/Krylatka2022?tab=repositories)
   
-## :globe_with_meridians: Мои контакты
+  ## :globe_with_meridians: Мои контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@dasha_fr_russia)
 [![Mail](https://img.shields.io/badge/@mail-DAA520?style=for-the-badge&logo%40-%20mail-informational=mail&l?logoColor=DAA520)](mailto:dasha_fr_russia@mail.ru)
 
 
-### :fire: My Stats :
+ ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krylatka2022)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krylatka2022)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
 <!--
 **Krylatka2022/Krylatka2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
