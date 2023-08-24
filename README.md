@@ -70,7 +70,10 @@
   
   ## :globe_with_meridians: Мои контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dasha_fr_russia)
+<!--[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dasha_fr_russia)-->
+ <a href="https://t.me/dasha_fr_russia" >
+<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
+</a>
 
  ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krylatka2022)](https://git.io/streak-stats)
