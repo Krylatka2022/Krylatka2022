@@ -54,8 +54,7 @@
     <a href="http://www.adobe.com/ru/products/photoshop/family/" >
         <img src="https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&labelColor=31A8FF&color=4E4E4E" alt="Adobe Photoshop home page" />
     </a>
- <a href="http://www.adobe.com/ru/products/photoshop/family/" >
-<!-- <img src="https://img.shields.io/badge/vue-20232a?style=for-the-badge&logo=vuedotjs"> -->
+ <a href="https://ru.vuejs.org/" >
   <img src="https://img.shields.io/badge/vue-informational?style=flat&logo=vuedotjs&logoColor=white&labelColor=6DA55F&color=4E4E4E">
    </a>
   </p>
