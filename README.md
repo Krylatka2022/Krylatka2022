@@ -29,7 +29,7 @@
         <img src="https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=white&labelColor=61dafb&color=4e4e4e" alt="React. A JavaScript library for building user interfaces" />
     </a>
     <a href="https://webpack.js.org" >
-        <img src="https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=8DD6F9&color=4E4E4E" alt="Webpack home page" />
+        <img src="https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=1d78c1&color=4E4E4E" alt="Webpack home page" />
     </a>
 </p>
 <p>
