@@ -25,18 +25,21 @@
        <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" >
         <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=24292f" alt="ECMAScript 2022 language specification" />
     </a>
-    <a href="https://ru.react.js.org/docs/getting-started.html" >
+     <a href="https://ru.react.js.org/docs/getting-started.html" >
         <img src="https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=white&labelColor=61dafb&color=24292f" alt="React. A JavaScript library for building user interfaces" />
     </a>
     <a href="https://webpack.js.org" >
         <img src="https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=1d78c1&color=24292f" alt="Webpack home page" />
     </a>
+ </p>
+<p>
    <a href="https://www.figma.com" >
         <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=24292f" alt="Figma home page" />
     </a>
     <a href="http://www.adobe.com/ru/products/photoshop/family/" >
         <img src="https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&labelColor=31A8FF&color=24292f" alt="Adobe Photoshop home page" />
     </a>
+ 
   <a href="https://git-scm.com/doc" >
         <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=24292f" alt="Git is a free and open source distributed version control system." />
     </a>
@@ -51,13 +54,15 @@
  <a href="https://expressjs.com/ru/" >
         <img src="https://img.shields.io/badge/Express.js-informational?style=flat&logo=Express&logoColor=white&labelColor=404D59&color=24292f" alt="Express.js. Fast, unopinionated, minimalist web framework for Node.js" />
     </a>
-    <a href="https://www.mongodb.com/docs/" >
+
+ <a href="https://www.mongodb.com/docs/" >
         <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&labelColor=13aa52&color=24292f" alt="MongoDB Documentation" />
     </a>
    <a href="https://www.postman.com/" >
         <img src="https://img.shields.io/badge/- Postman-20232a?style=flat&logo=postman&logoColor=white&labelColor=ff6c37&color=24292f" alt="Postman Documentation" />
     </a>
-   
+   </p>
+<p>
  <a href="https://ru.vuejs.org/" >
   <img src="https://img.shields.io/badge/ - Vue.js-informational?style=flat&logo=vuedotjs&logoColor=4fc08d&color=24292f" alt="Vue home page" >
    </a>
