@@ -40,7 +40,7 @@
         <img src="https://img.shields.io/badge/Express.js-informational?style=flat&logo=Express&logoColor=white&labelColor=404D59&color=4E4E4E" alt="Express.js. Fast, unopinionated, minimalist web framework for Node.js" />
     </a>
     <a href="https://www.mongodb.com/docs/" >
-        <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&labelColor=4EA94B&color=4E4E4E" alt="MongoDB Documentation" />
+        <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&labelColor=13aa52&color=4E4E4E" alt="MongoDB Documentation" />
     </a>
     <a href="https://git-scm.com/doc" >
         <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=4E4E4E" alt="Git is a free and open source distributed version control system." />
