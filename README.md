@@ -55,14 +55,14 @@
         <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&labelColor=13aa52&color=24292f" alt="MongoDB Documentation" />
     </a>
    <a href="https://www.postman.com/" >
-        <img src="https://img.shields.io/badge/-Postman-20232a?style=flat&logo=postman&logoColor=ff6c37&color=24292f" alt="Postman Documentation" />
+        <img src="https://img.shields.io/badge/- Postman-20232a?style=flat&logo=postman&logoColor=white&labelColor=ff6c37&color=24292f" alt="Postman Documentation" />
     </a>
    
  <a href="https://ru.vuejs.org/" >
-  <img src="https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vuedotjs&logoColor=4fc08d&color=24292f" alt="Vue home page" >
+  <img src="https://img.shields.io/badge/ - Vue.js-informational?style=flat&logo=vuedotjs&logoColor=4fc08d&color=24292f" alt="Vue home page" >
    </a>
     <a href="https://nuxt.com/" >
-  <img src="https://img.shields.io/badge/Nuxt-20232a?style=flat&logo=nuxtdotjs&logoColor" alt="Nuxt home page" >
+  <img src="https://img.shields.io/badge/Nuxt-20232a?style=flat&logo=nuxtdotjs&logoColor=00dc82&labelColor=24292f" alt="Nuxt home page" >
    </a>
   </p>
   
