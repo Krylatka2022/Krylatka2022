@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=23&duration=3000&pause=900&color=C57425&background=1CBD2B0B&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=357&lines=+%F0%9F%91%8C%F0%9F%91%8C%F0%9F%91%8C+%D0%A7%D1%83%D1%82%D0%BA%D0%BE%D0%B5+%D0%B2%D0%BE%D1%81%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5)](https://git.io/typing-svg)
  -->
 
-### Мои профессиональные навыки
+### Стек
 <p>
     <a href="https://html.spec.whatwg.org/multipage/" >
         <img src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=24292f" alt="HTML Living Standard" />
