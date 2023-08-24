@@ -68,7 +68,7 @@
   
   ## [Мои работы](https://github.com/Krylatka2022?tab=repositories)
   
-  ## :globe_with_meridians: Мои контакты
+  ## :globe_with_meridians: Contacts
 
 <!--[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dasha_fr_russia)-->
  <a href="https://t.me/dasha_fr_russia" >
