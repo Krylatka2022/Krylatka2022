@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/ - Vue.js-informational?style=flat&logo=vuedotjs&logoColor=4fc08d&color=24292f" alt="Vue home page" >
    </a>
     <a href="https://nuxt.com/" >
-  <img src="https://img.shields.io/badge/Nuxt-20232a?style=flat&logo=nuxtdotjs&logoColor=00dc82&labelColor=24292f" alt="Nuxt home page" >
+  <img src="https://img.shields.io/badge/Nuxt.js-20232a?style=flat&logo=nuxtdotjs&logoColor=00dc82&labelColor=24292f" alt="Nuxt home page" >
    </a>
   </p>
   
