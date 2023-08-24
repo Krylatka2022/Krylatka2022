@@ -66,7 +66,7 @@
    </a>
   </p>
   
-  ## [Мои работы](https://github.com/Krylatka2022?tab=repositories)
+  ## [My portfolio](https://github.com/Krylatka2022?tab=repositories)
   
   ## :globe_with_meridians: Contacts
 
