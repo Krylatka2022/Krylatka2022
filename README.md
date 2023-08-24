@@ -31,6 +31,18 @@
     <a href="https://webpack.js.org" >
         <img src="https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=1d78c1&color=4E4E4E" alt="Webpack home page" />
     </a>
+   <a href="https://www.figma.com" >
+        <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma home page" />
+    </a>
+    <a href="http://www.adobe.com/ru/products/photoshop/family/" >
+        <img src="https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&labelColor=31A8FF&color=4E4E4E" alt="Adobe Photoshop home page" />
+    </a>
+  <a href="https://git-scm.com/doc" >
+        <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=4E4E4E" alt="Git is a free and open source distributed version control system." />
+    </a>
+    <a href="https://github.com" >
+        <img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&labelColor=181717&color=4E4E4E" alt="Github home page" />
+    </a>
 </p>
 <p>
     <a href="https://nodejs.org/ru/" >
@@ -42,18 +54,10 @@
     <a href="https://www.mongodb.com/docs/" >
         <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&labelColor=13aa52&color=4E4E4E" alt="MongoDB Documentation" />
     </a>
-    <a href="https://git-scm.com/doc" >
-        <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=4E4E4E" alt="Git is a free and open source distributed version control system." />
+   <a href="https://www.postman.com/" >
+        <img src="https://img.shields.io/badge/-Postman-20232a?style=flat&logo=postman&logoColor=ff6c37&color=4E4E4E" alt="Postman Documentation" />
     </a>
-    <a href="https://github.com" >
-        <img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&labelColor=181717&color=4E4E4E" alt="Github home page" />
-    </a>
-     <a href="https://www.figma.com" >
-        <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma home page" />
-    </a>
-    <a href="http://www.adobe.com/ru/products/photoshop/family/" >
-        <img src="https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&labelColor=31A8FF&color=4E4E4E" alt="Adobe Photoshop home page" />
-    </a>
+   
  <a href="https://ru.vuejs.org/" >
   <img src="https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&labelColor=4fc08d&color=4E4E4E" alt="Vue home page" >
    </a>
