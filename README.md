@@ -71,23 +71,27 @@
    </a>
   </p>
   
-  ## [My portfolio](https://github.com/Krylatka2022?tab=repositories)
+ ## [My portfolio](https://github.com/Krylatka2022?tab=repositories)
   
-  ## :globe_with_meridians: Contacts
+ <!--  ## :globe_with_meridians: Contacts
 
-<!--[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dasha_fr_russia)-->
- <a href="https://t.me/dasha_fr_russia" >
-<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dasha_fr_russia)-->
 
- ### :fire: My Stats :
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krylatka2022)](https://git.io/streak-stats)
+
+<!-- ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krylatka2022)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krylatka2022)](https://github.com/Krylatka2022/github-readme-stats)-->
 <a href="https://github-readme-stats.vercel.app/api?username=Krylatka2022&show_icons=true&hide_border=trueshow_icons=true&theme=tokyonight">
   <img  align="center" height="167" src="https://github-readme-stats.vercel.app/api?username=Krylatka2022&show_icons=true&hide_border=trueshow_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Krylatka2022&layout=compact&theme=react">
   <img align="center" height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krylatka2022&langs_count=6&layout=compact&theme=tokyonight" />
+</a>
+<br>
+<br>
+<br>
+ <a href="https://t.me/dasha_fr_russia" >
+<img align="right" width="94" height="94" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
 </a>
 <!--![Krylatka2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krylatka2022&show_icons=true&theme=synthwave)</p>
 
