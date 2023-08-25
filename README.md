@@ -81,11 +81,17 @@
 </a>
 
  ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krylatka2022)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krylatka2022)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krylatka2022)](https://github.com/Krylatka2022/github-readme-stats)-->
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Krylatka2022&layout=compact&theme=react">
+  <img align="center" height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krylatka2022&langs_count=6&layout=compact&theme=react" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krylatka2022)](https://github.com/anuraghazra/github-readme-stats)
- </p>
-<!--
+<a href="https://github-readme-stats.vercel.app/api?username=Krylatka2022&show_icons=true&hide_border=trueshow_icons=true&theme=react">
+  <img  align="center" height="167" src="https://github-readme-stats.vercel.app/api?username=Krylatka2022&show_icons=true&hide_border=trueshow_icons=true&theme=react" />
+</a>
+<!--![Krylatka2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krylatka2022&show_icons=true&theme=synthwave)</p>
+
 **Krylatka2022/Krylatka2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
