@@ -91,7 +91,7 @@
 <br>
 <br>
  <a href="https://t.me/dasha_fr_russia" >
-<img align="right" width="94" height="94" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
+<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
 </a>
 <!--![Krylatka2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krylatka2022&show_icons=true&theme=synthwave)</p>
 
