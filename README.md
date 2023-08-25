@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=24292f" alt="HTML Living Standard" />
     </a>
     <a href="https://www.w3.org/Style/CSS/Overview.ru.html" >
-        <img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=24292f" alt="Web Style Sheets home page" />
+        <img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=6639ba&color=24292f" alt="Web Style Sheets home page" />
     </a>
        <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" >
         <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=24292f" alt="ECMAScript 2022 language specification" />
